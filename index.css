@@ -48,7 +48,7 @@ header h1 {
     justify-content: space-evenly;
 }
 
-.recipe-card {
+.event-card {
     /**
     Need to update once I label this in js (in the demo it's recipe-card, in the "create a new recipe card" section which will be "create a new event" for this
     */
